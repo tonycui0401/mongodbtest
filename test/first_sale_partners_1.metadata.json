@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"test.first_sale_partners_1"},{"v":1,"key":{"_fts":"text","_ftsx":1},"name":"videoDescription_text","default_language":"english","language_override":"language","ns":"test.first_sale_partners_1","weights":{"videoDescription":1},"textIndexVersion":2}]}
